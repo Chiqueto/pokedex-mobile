@@ -14,7 +14,7 @@ Uma aplicação mobile desenvolvida com Flutter que permite explorar Pokémon po
 
 | Login/Cadastro                                                        | Listagem de Pokémon                                                         | Detalhes do Pokémon                                                         |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Login](https://github.com/Chiqueto/pokedex-mobile/assets/login.png) | ![Listagem](https://github.com/Chiqueto/pokedex-mobile/assets/listagem.png) | ![Detalhes](https://github.com/Chiqueto/pokedex-mobile/assets/detalhes.png) |
+| ![image](https://github.com/user-attachments/assets/4a946698-f94f-486d-a79a-6b5bb0d4fa2a) | ![image](https://github.com/user-attachments/assets/f5e9a3f5-0749-41f4-b839-8a3e68436ac1) | ![image](https://github.com/user-attachments/assets/05b7e16b-1118-4a7c-b919-b12913d8b50e) |
 
 ## 🚀 Tecnologias Utilizadas
 
